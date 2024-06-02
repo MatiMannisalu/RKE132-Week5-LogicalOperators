@@ -1,0 +1,4 @@
+C:\Users\manni\source\repos\Week5LogicalOperators\Test5ules3\obj\Debug\net8.0\Test5ules3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\Week5LogicalOperators\Test5ules3\obj\Debug\net8.0\Test5ules3.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\Week5LogicalOperators\Test5ules3\obj\Debug\net8.0\Test5ules3.AssemblyInfo.cs
+C:\Users\manni\source\repos\Week5LogicalOperators\Test5ules3\obj\Debug\net8.0\Test5ules3.csproj.CoreCompileInputs.cache

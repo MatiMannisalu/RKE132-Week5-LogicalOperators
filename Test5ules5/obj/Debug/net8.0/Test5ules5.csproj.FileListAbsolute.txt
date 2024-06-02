@@ -1,0 +1,14 @@
+C:\Users\manni\source\repos\Week5LogicalOperators\Test5ules5\bin\Debug\net8.0\Test5ules5.exe
+C:\Users\manni\source\repos\Week5LogicalOperators\Test5ules5\bin\Debug\net8.0\Test5ules5.deps.json
+C:\Users\manni\source\repos\Week5LogicalOperators\Test5ules5\bin\Debug\net8.0\Test5ules5.runtimeconfig.json
+C:\Users\manni\source\repos\Week5LogicalOperators\Test5ules5\bin\Debug\net8.0\Test5ules5.dll
+C:\Users\manni\source\repos\Week5LogicalOperators\Test5ules5\bin\Debug\net8.0\Test5ules5.pdb
+C:\Users\manni\source\repos\Week5LogicalOperators\Test5ules5\obj\Debug\net8.0\Test5ules5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\Week5LogicalOperators\Test5ules5\obj\Debug\net8.0\Test5ules5.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\Week5LogicalOperators\Test5ules5\obj\Debug\net8.0\Test5ules5.AssemblyInfo.cs
+C:\Users\manni\source\repos\Week5LogicalOperators\Test5ules5\obj\Debug\net8.0\Test5ules5.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\Week5LogicalOperators\Test5ules5\obj\Debug\net8.0\Test5ules5.dll
+C:\Users\manni\source\repos\Week5LogicalOperators\Test5ules5\obj\Debug\net8.0\refint\Test5ules5.dll
+C:\Users\manni\source\repos\Week5LogicalOperators\Test5ules5\obj\Debug\net8.0\Test5ules5.pdb
+C:\Users\manni\source\repos\Week5LogicalOperators\Test5ules5\obj\Debug\net8.0\Test5ules5.genruntimeconfig.cache
+C:\Users\manni\source\repos\Week5LogicalOperators\Test5ules5\obj\Debug\net8.0\ref\Test5ules5.dll
